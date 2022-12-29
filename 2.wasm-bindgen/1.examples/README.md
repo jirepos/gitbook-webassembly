@@ -1,4 +1,4 @@
-# Examples
+# 1. Examples
 
 
 **Examples of using wasm-bindgen, js-sys, and web-sys**
